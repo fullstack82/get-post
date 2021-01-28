@@ -19,8 +19,9 @@
         </p>
         <label for="email">Email</label>
         <input type="text" name="email">
-
-        <input type="submit" value="Enviar datos"/>
+        <p>
+            <input type="submit" value="Enviar datos" />
+        </p>
     </form>
 
 
